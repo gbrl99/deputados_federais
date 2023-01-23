@@ -1,0 +1,590 @@
+	posicao	nome	cargo	partido	pontuacao	estado	presidente
+0	0	Eduardo Girão	Senador	PODEMOS	8.34	CE	False
+1	1	Alex Manente 	Deputado Federal	CIDADANIA	8.28	SP	False
+2	2	Adriana Ventura 	Deputado Federal	NOVO	8.1	SP	False
+3	3	Lucas Redecker 	Deputado Federal	PSDB	8.08	RS	False
+4	4	Carlos Portinho	Senador	PL	8.05	RJ	False
+5	5	Marco Bertaiolli 	Deputado Federal	PSD	8.02	SP	False
+6	6	Paula Belmonte 	Deputado Federal	CIDADANIA	8.0	DF	False
+7	7	Guiga Peixoto 	Deputado Federal	PSC	7.95	SP	False
+8	8	Marcelo Calero 	Deputado Federal	PSD	7.93	RJ	False
+9	9	Rodrigo Coelho 	Deputado Federal	PODEMOS	7.91	SC	False
+10	10	Oriovisto Guimarães	Senador	PODEMOS	7.9	PR	False
+11	11	Vinicius Poit 	Deputado Federal	NOVO	7.89	SP	False
+12	12	Pedro Vilela	Deputado Federal	PSDB	7.88	AL	False
+13	13	Arnaldo Jardim 	Deputado Federal	CIDADANIA	7.87	SP	False
+14	13	Daniel Trzeciak 	Deputado Federal	PSDB	7.87	RS	False
+15	13	Alexis Fonteyne 	Deputado Federal	NOVO	7.87	SP	False
+16	16	Kim Kataguiri 	Deputado Federal	UNIÃO	7.86	SP	False
+17	16	Joice Hasselmann 	Deputado Federal	PSDB	7.86	SP	False
+18	18	Paulo Ganime 	Deputado Federal	NOVO	7.83	RJ	False
+19	19	Pedro Cunha Lima 	Deputado Federal	PSDB	7.82	PB	False
+20	20	Gilson Marques 	Deputado Federal	NOVO	7.81	SC	False
+21	20	Tiago Mitraud 	Deputado Federal	NOVO	7.81	MG	False
+22	22	Júnior Ferrari 	Deputado Federal	PSD	7.8	PA	False
+23	22	General Peternelli 	Deputado Federal	UNIÃO	7.8	SP	False
+24	24	Samuel Moreira 	Deputado Federal	PSDB	7.78	SP	False
+25	24	Luiz Philippe de Orleans e Bragança 	Deputado Federal	PL	7.78	SP	False
+26	26	Daniel Coelho 	Deputado Federal	CIDADANIA	7.76	PE	False
+27	27	Joaquim Passarinho 	Deputado Federal	PL	7.75	PA	False
+28	28	Paulo Eduardo Martins 	Deputado Federal	PL	7.73	PR	False
+29	29	Felipe Rigoni 	Deputado Federal	UNIÃO	7.72	ES	False
+30	30	Aline Sleutjes 	Deputado Federal	PROS	7.71	PR	False
+31	31	Luiz Lima 	Deputado Federal	PL	7.69	RJ	False
+32	32	Evair Vieira de Melo 	Deputado Federal	PP	7.68	ES	False
+33	33	Marcel van Hattem	Deputado Federal	NOVO	7.67	RS	False
+34	34	Bibo Nunes 	Deputado Federal	PL	7.66	RS	False
+35	35	Marcos do Val	Senador	PODEMOS	7.65	ES	False
+36	36	Capitão Alberto Neto 	Deputado Federal	PL	7.63	AM	False
+37	37	Daniel Freitas 	Deputado Federal	PL	7.6	SC	False
+38	38	Plínio Valério	Senador	PSDB	7.59	AM	False
+39	39	Mariana Carvalho 	Deputado Federal	REPUBLICANOS	7.56	RO	False
+40	40	Laercio Oliveira 	Deputado Federal	PP	7.55	SE	False
+41	40	Caroline de Toni 	Deputado Federal	PL	7.55	SC	False
+42	40	Major Vitor Hugo	Deputado Federal	PL	7.55	GO	False
+43	43	Dra. Soraya Manato 	Deputado Federal	PTB	7.52	ES	False
+44	44	Jorginho Mello	Senador	PL	7.51	SC	False
+45	45	Lucas Gonzalez 	Deputado Federal	NOVO	7.5	MG	False
+46	45	Chris Tonietto 	Deputado Federal	PL	7.5	RJ	False
+47	45	Bia Kicis 	Deputado Federal	PL	7.5	DF	False
+48	48	Tereza Cristina 	Deputado Federal	PP	7.48	MS	False
+49	48	Carlos Jordy 	Deputado Federal	PL	7.48	RJ	False
+50	50	Soraya Thronicke	Senador	UNIÃO	7.47	MS	False
+51	51	Osmar Serraglio	Deputado Federal	PP	7.46	PR	False
+52	51	General Girão 	Deputado Federal	PL	7.46	RN	False
+53	53	Darci de Matos 	Deputado Federal	PSD	7.45	SC	False
+54	54	Marcio Bittar	Senador	UNIÃO	7.43	AC	False
+55	54	Gurgel 	Deputado Federal	PL	7.43	RJ	False
+56	54	Nelson Barbudo 	Deputado Federal	PL	7.43	MT	False
+57	57	Lincoln Portela 	Deputado Federal	PL	7.42	MG	False
+58	57	Styvenson Valentim	Senador	PODEMOS	7.42	RN	False
+59	57	Jones Moura	Deputado Federal	PSD	7.42	RJ	False
+60	60	Wellington Fagundes	Senador	PL	7.4	MT	False
+61	60	Rogério Peninha Mendonça 	Deputado Federal	MDB	7.4	SC	False
+62	60	Pastor Eurico 	Deputado Federal	PL	7.4	PE	False
+63	60	Sargento Fahur 	Deputado Federal	PSD	7.4	PR	False
+64	64	Ney Leprevost 	Deputado Federal	UNIÃO	7.38	PR	False
+65	64	Alê Silva 	Deputado Federal	REPUBLICANOS	7.38	MG	False
+66	66	Pedro Westphalen 	Deputado Federal	PP	7.37	RS	False
+67	67	Fred Costa 	Deputado Federal	PATRIOTA	7.36	MG	False
+68	67	Junio Amaral 	Deputado Federal	PL	7.36	MG	False
+69	69	Jerônimo Goergen 	Deputado Federal	PP	7.35	RS	False
+70	69	Carlos Viana	Senador	PL	7.35	MG	False
+71	71	Márcio Labre 	Deputado Federal	PL	7.34	RJ	False
+72	72	Coronel Chrisóstomo 	Deputado Federal	PL	7.33	RO	False
+73	73	Pedro Augusto Palareti	Deputado Federal	PP	7.32	RJ	False
+74	73	Irajá	Senador	PSD	7.32	TO	False
+75	73	Sanderson 	Deputado Federal	PL	7.32	RS	False
+76	76	Carmen Zanotto 	Deputado Federal	CIDADANIA	7.31	SC	False
+77	76	Diego Garcia 	Deputado Federal	REPUBLICANOS	7.31	PR	False
+78	78	Luiz Carlos do Carmo	Senador	PSC	7.29	GO	False
+79	78	Eliane Nogueira	Senador	PP	7.29	PI	False
+80	80	Covatti Filho 	Deputado Federal	PP	7.28	RS	False
+81	81	Flávio Bolsonaro	Senador	PL	7.27	RJ	False
+82	81	Miguel Lombardi 	Deputado Federal	PL	7.27	SP	False
+83	81	Professora Dayane Pimentel 	Deputado Federal	UNIÃO	7.27	BA	False
+84	84	João Maia 	Deputado Federal	PL	7.26	RN	False
+85	84	Capitão Derrite	Deputado Federal	PL	7.26	SP	False
+86	86	Luis Miranda 	Deputado Federal	REPUBLICANOS	7.25	DF	False
+87	87	Eduardo Bolsonaro 	Deputado Federal	PL	7.24	SP	False
+88	87	Alessandro Vieira	Senador	PSDB	7.24	SE	False
+89	89	Marcio Alvino 	Deputado Federal	PL	7.23	SP	False
+90	89	Tito 	Deputado Federal	AVANTE	7.23	BA	False
+91	91	Da Vitoria 	Deputado Federal	PP	7.22	ES	False
+92	92	Roberto Rocha	Senador	PTB	7.21	MA	False
+93	92	Marcelo Álvaro Antônio 	Deputado Federal	PL	7.21	MG	False
+94	92	Lasier Martins	Senador	PODEMOS	7.21	RS	False
+95	92	Carla Zambelli 	Deputado Federal	PL	7.21	SP	False
+96	92	Franco Cartafina 	Deputado Federal	PP	7.21	MG	False
+97	97	Loester Trutis 	Deputado Federal	PL	7.2	MS	False
+98	98	Major Fabiana 	Deputado Federal	PL	7.19	RJ	False
+99	99	Hugo Leal 	Deputado Federal	PSD	7.18	RJ	False
+100	99	Tasso Jereissati	Senador	PSDB	7.18	CE	False
+101	99	Maurício Dziedricki 	Deputado Federal	PODEMOS	7.18	RS	False
+102	99	Fernando Bezerra Coelho	Senador	MDB	7.18	PE	False
+103	99	Helio Lopes 	Deputado Federal	PL	7.18	RJ	False
+104	104	Heitor Freire 	Deputado Federal	UNIÃO	7.17	CE	False
+105	105	Luis Carlos Heinze	Senador	PP	7.16	RS	False
+106	105	Jose Mario Schreiner 	Deputado Federal	MDB	7.16	GO	False
+107	107	Telmário Mota	Senador	PROS	7.15	RR	False
+108	107	Paulo Freire Costa 	Deputado Federal	PL	7.15	SP	False
+109	107	Felipe Francischini 	Deputado Federal	UNIÃO	7.15	PR	False
+110	110	Efraim Filho 	Deputado Federal	UNIÃO	7.14	PB	False
+111	111	Dr. Luiz Ovando 	Deputado Federal	PP	7.13	MS	False
+112	111	Patricia Ferraz 	Deputado Federal	PL	7.13	AP	False
+113	113	Eduardo Cury 	Deputado Federal	PSDB	7.12	SP	False
+114	114	Bilac Pinto 	Deputado Federal	UNIÃO	7.11	MG	False
+115	114	Coronel Tadeu 	Deputado Federal	PL	7.11	SP	False
+116	114	Coronel Armando 	Deputado Federal	PL	7.11	SC	False
+117	117	Rossoni	Deputado Federal	PSDB	7.1	PR	False
+118	117	Nelsinho Trad	Senador	PSD	7.1	MS	False
+119	119	Carlos Sampaio 	Deputado Federal	PSDB	7.09	SP	False
+120	119	Vanderlan Cardoso	Senador	PSD	7.09	GO	False
+121	121	Aluisio Mendes 	Deputado Federal	PSC	7.08	MA	False
+122	121	Giordano	Senador	MDB	7.08	SP	False
+123	123	Vanderlei Macris 	Deputado Federal	PSDB	7.07	SP	False
+124	123	Danilo Forte	Deputado Federal	UNIÃO	7.07	CE	False
+125	123	Julian Lemos 	Deputado Federal	UNIÃO	7.07	PB	False
+126	126	Marcelo Castro	Senador	MDB	7.06	PI	False
+127	126	Sandro Alex 	Deputado Federal	PSD	7.06	PR	False
+128	126	Rubens Bueno 	Deputado Federal	CIDADANIA	7.06	PR	False
+129	126	Delegado Marcelo Freitas 	Deputado Federal	UNIÃO	7.06	MG	False
+130	130	Fabio Schiochet 	Deputado Federal	UNIÃO	7.05	SC	False
+131	131	Pedro Paulo 	Deputado Federal	PSD	7.04	RJ	False
+132	131	Geovania de Sá 	Deputado Federal	PSDB	7.04	SC	False
+133	131	Jayme Campos	Senador	UNIÃO	7.04	MT	False
+134	134	Delegado Éder Mauro 	Deputado Federal	PL	7.03	PA	False
+135	134	Daniel Silveira 	Deputado Federal	PTB	7.03	RJ	False
+136	136	Marcelo Moraes 	Deputado Federal	PL	7.02	RS	False
+137	137	Luisa Canziani 	Deputado Federal	PSD	7.01	PR	False
+138	138	Marcelo Ramos 	Deputado Federal	PSD	7.0	AM	False
+139	138	Liziane Bayer 	Deputado Federal	REPUBLICANOS	7.0	RS	False
+140	140	Eduardo Gomes	Senador	PL	6.99	TO	False
+141	140	Felício Laterça 	Deputado Federal	PP	6.99	RJ	False
+142	142	Onyx Lorenzoni 	Deputado Federal	PL	6.98	RS	False
+143	143	Eduardo Barbosa 	Deputado Federal	PSDB	6.97	MG	False
+144	143	Roberto de Lucena 	Deputado Federal	REPUBLICANOS	6.97	SP	False
+145	143	Alvaro Dias	Senador	PODEMOS	6.97	PR	False
+146	146	Daniella Ribeiro	Senador	PSD	6.96	PB	False
+147	146	Celso Russomanno 	Deputado Federal	REPUBLICANOS	6.96	SP	False
+148	146	Lourival Gomes 	Deputado Federal	PP	6.96	RJ	False
+149	149	Eduardo Costa 	Deputado Federal	PSD	6.95	PA	False
+150	149	Ricardo Guidi 	Deputado Federal	PSD	6.95	SC	False
+151	151	Vitor Lippi 	Deputado Federal	PSDB	6.94	SP	False
+152	152	Neucimar Fraga	Deputado Federal	PP	6.93	ES	False
+153	152	Rodrigo Pacheco	Senador	PSD	6.93	MG	True
+154	152	Marcos Pereira 	Deputado Federal	REPUBLICANOS	6.93	SP	False
+155	152	Enrico Misasi 	Deputado Federal	MDB	6.93	SP	False
+156	152	Gil Cutrim 	Deputado Federal	REPUBLICANOS	6.93	MA	False
+157	157	Sergio Souza 	Deputado Federal	MDB	6.92	PR	False
+158	157	Capitão Augusto 	Deputado Federal	PL	6.92	SP	False
+159	159	Márcio Biolchi 	Deputado Federal	MDB	6.91	RS	False
+160	159	Igor Kannário 	Deputado Federal	UNIÃO	6.91	BA	False
+161	161	Rodrigo Cunha	Senador	UNIÃO	6.9	AL	False
+162	161	Otoni de Paula 	Deputado Federal	MDB	6.9	RJ	False
+163	163	Capitão Wagner 	Deputado Federal	UNIÃO	6.89	CE	False
+164	163	Nicoletti 	Deputado Federal	UNIÃO	6.89	RR	False
+165	165	Soraya Santos 	Deputado Federal	PL	6.87	RJ	False
+166	165	Filipe Barros 	Deputado Federal	PL	6.87	PR	False
+167	167	Pedro Lupion 	Deputado Federal	PP	6.86	PR	False
+168	167	Esperidião Amin	Senador	PP	6.86	SC	False
+169	169	Célio Silveira 	Deputado Federal	MDB	6.85	GO	False
+170	169	Nivaldo Albuquerque 	Deputado Federal	REPUBLICANOS	6.85	AL	False
+171	171	Augusto Coutinho 	Deputado Federal	REPUBLICANOS	6.84	PE	False
+172	171	Izalci Lucas	Senador	PSDB	6.84	DF	False
+173	171	Alexandre Leite 	Deputado Federal	UNIÃO	6.84	SP	False
+174	171	Adriano do Baldy 	Deputado Federal	PP	6.84	GO	False
+175	171	Delegado Pablo 	Deputado Federal	UNIÃO	6.84	AM	False
+176	171	Marreca Filho 	Deputado Federal	PATRIOTA	6.84	MA	False
+177	171	Josivaldo JP	Deputado Federal	PSD	6.84	MA	False
+178	178	Silvio Costa Filho 	Deputado Federal	REPUBLICANOS	6.83	PE	False
+179	178	Giacobo 	Deputado Federal	PL	6.83	PR	False
+180	178	Felipe Carreras 	Deputado Federal	PSB	6.83	PE	False
+181	181	Adolfo Viana 	Deputado Federal	PSDB	6.82	BA	False
+182	181	Hiran Gonçalves 	Deputado Federal	PP	6.82	RR	False
+183	181	Nereu Crispim 	Deputado Federal	PSD	6.82	RS	False
+184	184	Cacá Leão 	Deputado Federal	PP	6.79	BA	False
+185	184	Eli Corrêa Filho 	Deputado Federal	UNIÃO	6.79	SP	False
+186	184	Eros Biondini 	Deputado Federal	PL	6.79	MG	False
+187	184	Giovani Cherini 	Deputado Federal	PL	6.79	RS	False
+188	184	Professor Alcides 	Deputado Federal	PL	6.79	GO	False
+189	184	Charlles Evangelista 	Deputado Federal	PP	6.79	MG	False
+190	190	José Serra	Senador	PSDB	6.76	SP	False
+191	191	Antonio Brito 	Deputado Federal	PSD	6.75	BA	False
+192	191	Jorge Kajuru	Senador	PODEMOS	6.75	GO	False
+193	193	Júlio Cesar 	Deputado Federal	PSD	6.74	PI	False
+194	193	Eduardo Braga	Senador	MDB	6.74	AM	False
+195	193	Dra. Vanda Milani 	Deputado Federal	PROS	6.74	AC	False
+196	193	Dr. Leonardo 	Deputado Federal	REPUBLICANOS	6.74	MT	False
+197	197	Dr. Zacharias Calil 	Deputado Federal	UNIÃO	6.73	GO	False
+198	198	AJ Albuquerque	Deputado Federal	PP	6.72	CE	False
+199	199	Edilázio Júnior 	Deputado Federal	PSD	6.71	MA	False
+200	199	Angela Amin 	Deputado Federal	PP	6.71	SC	False
+201	199	Luiz Carlos Motta 	Deputado Federal	PL	6.71	SP	False
+202	202	Afonso Hamm 	Deputado Federal	PP	6.7	RS	False
+203	202	Hercílio Coelho Diniz 	Deputado Federal	MDB	6.7	MG	False
+204	204	Rose de Freitas	Senador	MDB	6.69	ES	False
+205	204	Bozzella	Deputado Federal	UNIÃO	6.69	SP	False
+206	206	Rodrigo de Castro 	Deputado Federal	UNIÃO	6.68	MG	False
+207	206	Simone Tebet	Senador	MDB	6.68	MS	False
+208	208	Jhonatan de Jesus 	Deputado Federal	REPUBLICANOS	6.66	RR	False
+209	208	Pedro Lucas Fernandes 	Deputado Federal	UNIÃO	6.66	MA	False
+210	210	Neri Geller 	Deputado Federal	PP	6.65	MT	False
+211	210	Lucas Vergilio 	Deputado Federal	SOLIDARIEDADE	6.65	GO	False
+212	212	Ricardo Barros 	Deputado Federal	PP	6.64	PR	False
+213	212	Hélio Costa 	Deputado Federal	PSD	6.64	SC	False
+214	214	Isnaldo Bulhões Jr. 	Deputado Federal	MDB	6.63	AL	False
+215	215	Arthur Lira 	Deputado Federal	PP	6.62	AL	True
+216	215	Flávio Arns	Senador	PODEMOS	6.62	PR	False
+217	215	Léo Moraes 	Deputado Federal	PODEMOS	6.62	RO	False
+218	215	Geninho Zuliani 	Deputado Federal	UNIÃO	6.62	SP	False
+219	219	Luiz Nishimori 	Deputado Federal	PSD	6.59	PR	False
+220	219	Doutor Luizinho	Deputado Federal	PP	6.59	RJ	False
+221	221	Benes Leocádio 	Deputado Federal	UNIÃO	6.58	RN	False
+222	222	Paulo Azi 	Deputado Federal	UNIÃO	6.57	BA	False
+223	222	Sebastião Oliveira 	Deputado Federal	AVANTE	6.57	PE	False
+224	222	Carlos Chiodini 	Deputado Federal	MDB	6.57	SC	False
+225	222	Abou Anni 	Deputado Federal	UNIÃO	6.57	SP	False
+226	222	Osmar Terra 	Deputado Federal	MDB	6.57	RS	False
+227	222	Celso Maldaner 	Deputado Federal	MDB	6.57	SC	False
+228	222	Reguffe	Senador	S.PART.	6.57	DF	False
+229	229	Christino Aureo 	Deputado Federal	PP	6.56	RJ	False
+230	229	Mecias de Jesus	Senador	REPUBLICANOS	6.56	RR	False
+231	229	Carlos Gomes 	Deputado Federal	REPUBLICANOS	6.56	RS	False
+232	229	Delegado Waldir 	Deputado Federal	UNIÃO	6.56	GO	False
+233	229	Confúcio Moura	Senador	MDB	6.56	RO	False
+234	229	Professor Joziel 	Deputado Federal	PATRIOTA	6.56	RJ	False
+235	229	Carlos Fávaro	Senador	PSD	6.56	MT	False
+236	236	David Soares 	Deputado Federal	UNIÃO	6.55	SP	False
+237	236	Zequinha Marinho	Senador	PL	6.55	PA	False
+238	236	Luiz Carlos 	Deputado Federal	PSDB	6.55	AP	False
+239	236	Vinicius Carvalho 	Deputado Federal	REPUBLICANOS	6.55	SP	False
+240	236	Uldurico Junior 	Deputado Federal	MDB	6.55	BA	False
+241	236	Vicentinho Júnior 	Deputado Federal	PP	6.55	TO	False
+242	242	Bosco Saraiva 	Deputado Federal	SOLIDARIEDADE	6.54	AM	False
+243	242	José Medeiros 	Deputado Federal	PL	6.54	MT	False
+244	244	Ronaldo Carletto 	Deputado Federal	PP	6.53	BA	False
+245	244	Altineu Côrtes 	Deputado Federal	PL	6.53	RJ	False
+246	244	Fausto Pinato 	Deputado Federal	PP	6.53	SP	False
+247	244	Marina Santos 	Deputado Federal	REPUBLICANOS	6.53	PI	False
+248	248	Juninho do Pneu 	Deputado Federal	UNIÃO	6.52	RJ	False
+249	248	Luizão Goulart 	Deputado Federal	SOLIDARIEDADE	6.52	PR	False
+250	248	Glaustin da Fokus	Deputado Federal	PSC	6.52	GO	False
+251	251	Romário	Senador	PL	6.51	RJ	False
+252	251	Renata Abreu 	Deputado Federal	PODEMOS	6.51	SP	False
+253	251	Igor Timo 	Deputado Federal	PODEMOS	6.51	MG	False
+254	254	Gustinho Ribeiro 	Deputado Federal	REPUBLICANOS	6.5	SE	False
+255	254	Dr. Jaziel 	Deputado Federal	PL	6.5	CE	False
+256	254	Christiane de Souza Yared 	Deputado Federal	PP	6.5	PR	False
+257	254	Olival Marques 	Deputado Federal	MDB	6.5	PA	False
+258	254	Leur Lomanto Júnior 	Deputado Federal	UNIÃO	6.5	BA	False
+259	254	Ricardo da Karol	Deputado Federal	PDT	6.5	RJ	False
+260	260	Marlon Santos 	Deputado Federal	PL	6.49	RS	False
+261	260	Pinheirinho 	Deputado Federal	PP	6.49	MG	False
+262	262	Francisco Jr. 	Deputado Federal	PSD	6.48	GO	False
+263	262	Elmano Férrer	Senador	PP	6.48	PI	False
+264	262	Cezinha de Madureira 	Deputado Federal	PSD	6.48	SP	False
+265	262	Policial Katia Sastre 	Deputado Federal	PL	6.48	SP	False
+266	266	Zé Silva 	Deputado Federal	SOLIDARIEDADE	6.47	MG	False
+267	266	Dário Berger	Senador	PSB	6.47	SC	False
+268	268	Jefferson Campos 	Deputado Federal	PL	6.46	SP	False
+269	269	Elmar Nascimento 	Deputado Federal	UNIÃO	6.45	BA	False
+270	269	Toninho Wandscheer 	Deputado Federal	PROS	6.45	PR	False
+271	269	Nilson Pinto 	Deputado Federal	PSDB	6.45	PA	False
+272	269	André Abdon 	Deputado Federal	PP	6.45	AP	False
+273	269	Bosco Costa 	Deputado Federal	PL	6.45	SE	False
+274	269	Ottaci Nascimento	Deputado Federal	SOLIDARIEDADE	6.45	RR	False
+275	275	Julio Cesar Ribeiro 	Deputado Federal	REPUBLICANOS	6.44	DF	False
+276	276	Átila Lins 	Deputado Federal	PSD	6.43	AM	False
+277	276	Jaqueline Cassol 	Deputado Federal	PP	6.43	RO	False
+278	276	Tiago Dimas 	Deputado Federal	PODEMOS	6.43	TO	False
+279	279	Carlos Bezerra 	Deputado Federal	MDB	6.42	MT	False
+280	279	Domingos Sávio 	Deputado Federal	PL	6.42	MG	False
+281	279	Amaro Neto 	Deputado Federal	REPUBLICANOS	6.42	ES	False
+282	279	Raimundo Costa 	Deputado Federal	PODEMOS	6.42	BA	False
+283	283	Abílio Santana 	Deputado Federal	PSC	6.41	BA	False
+284	284	Gilberto Abramo 	Deputado Federal	REPUBLICANOS	6.4	MG	False
+285	284	Delegado Antônio Furtado 	Deputado Federal	UNIÃO	6.4	RJ	False
+286	286	Osires Damaso 	Deputado Federal	PSC	6.39	TO	False
+287	286	Sérgio Brito 	Deputado Federal	PSD	6.39	BA	False
+288	286	Danrlei de Deus Hinterholz 	Deputado Federal	PSD	6.39	RS	False
+289	286	Greyce Elias 	Deputado Federal	AVANTE	6.39	MG	False
+290	286	Gelson Azevedo 	Deputado Federal	PL	6.39	RJ	False
+291	291	Hermes Parcianello 	Deputado Federal	MDB	6.38	PR	False
+292	291	Fábio Ramalho 	Deputado Federal	MDB	6.38	MG	False
+293	291	Alan Rick 	Deputado Federal	UNIÃO	6.38	AC	False
+294	294	Tabata Amaral 	Deputado Federal	PSB	6.37	SP	False
+295	294	Paulo Bengtson 	Deputado Federal	PTB	6.37	PA	False
+296	294	Junior Lourenço 	Deputado Federal	PL	6.37	MA	False
+297	297	Margarete Coelho 	Deputado Federal	PP	6.36	PI	False
+298	297	Chiquinho Brazão 	Deputado Federal	UNIÃO	6.36	RJ	False
+299	297	Flaviano Melo 	Deputado Federal	MDB	6.36	AC	False
+300	300	Marx Beltrão 	Deputado Federal	PP	6.35	AL	False
+301	301	Aguinaldo Ribeiro 	Deputado Federal	PP	6.34	PB	False
+302	302	Arthur Oliveira Maia 	Deputado Federal	UNIÃO	6.33	BA	False
+303	302	Cleber Verde 	Deputado Federal	REPUBLICANOS	6.33	MA	False
+304	302	José Nelto 	Deputado Federal	PP	6.33	GO	False
+305	302	Emidinho Madeira 	Deputado Federal	PL	6.33	MG	False
+306	306	Ricardo Silva	Deputado Federal	PSD	6.32	SP	False
+307	306	Genecias Noronha 	Deputado Federal	PL	6.32	CE	False
+308	306	Hélio Leite 	Deputado Federal	UNIÃO	6.32	PA	False
+309	306	Rosana Valle 	Deputado Federal	PL	6.32	SP	False
+310	310	Jorge Braz 	Deputado Federal	REPUBLICANOS	6.31	RJ	False
+311	310	Maria do Carmo Alves	Senador	PP	6.31	SE	False
+312	312	Fernando Coelho Filho 	Deputado Federal	UNIÃO	6.3	PE	False
+313	313	Claudio Cajado 	Deputado Federal	PP	6.29	BA	False
+314	313	Hugo Motta 	Deputado Federal	REPUBLICANOS	6.29	PB	False
+315	313	Aroldo Martins 	Deputado Federal	REPUBLICANOS	6.29	PR	False
+316	313	Luiz Antônio Corrêa 	Deputado Federal	PP	6.29	RJ	False
+317	317	José Rocha 	Deputado Federal	UNIÃO	6.28	BA	False
+318	317	Vaidon Oliveira 	Deputado Federal	UNIÃO	6.28	CE	False
+319	319	Ossesio Silva 	Deputado Federal	REPUBLICANOS	6.27	PE	False
+320	319	Mara Rocha 	Deputado Federal	MDB	6.27	AC	False
+321	321	Raul Henry 	Deputado Federal	MDB	6.26	PE	False
+322	321	Ruy Carneiro 	Deputado Federal	PSC	6.26	PB	False
+323	321	Marcos Aurélio Sampaio 	Deputado Federal	PSD	6.26	PI	False
+324	324	Zé Vitor 	Deputado Federal	PL	6.25	MG	False
+325	325	Mauro Lopes 	Deputado Federal	PP	6.24	MG	False
+326	325	Alceu Moreira 	Deputado Federal	MDB	6.24	RS	False
+327	325	Mailza Gomes	Senador	PP	6.24	AC	False
+328	325	Daniela do Waguinho 	Deputado Federal	UNIÃO	6.24	RJ	False
+329	329	Sergio Toledo 	Deputado Federal	PV	6.23	AL	False
+330	329	Giovani Feltes 	Deputado Federal	MDB	6.23	RS	False
+331	331	Davi Alcolumbre	Senador	UNIÃO	6.22	AP	False
+332	332	Lauriete 	Deputado Federal	PSC	6.21	ES	False
+333	333	Vermelho 	Deputado Federal	PL	6.2	PR	False
+334	333	Dr. Frederico 	Deputado Federal	PATRIOTA	6.2	MG	False
+335	335	Pastor Gil	Deputado Federal	PL	6.19	MA	False
+336	336	Alcides Rodrigues 	Deputado Federal	PATRIOTA	6.18	GO	False
+337	336	João Roma 	Deputado Federal	PL	6.18	BA	False
+338	338	Alex Santana 	Deputado Federal	REPUBLICANOS	6.17	BA	False
+339	339	Rosangela Gomes 	Deputado Federal	REPUBLICANOS	6.16	RJ	False
+340	339	João Campos 	Deputado Federal	REPUBLICANOS	6.16	GO	False
+341	341	Milton Vieira 	Deputado Federal	REPUBLICANOS	6.15	SP	False
+342	341	Acácio Favacho 	Deputado Federal	MDB	6.15	AP	False
+343	343	Luis Tibé 	Deputado Federal	AVANTE	6.14	MG	False
+344	344	Lafayette de Andrada 	Deputado Federal	REPUBLICANOS	6.13	MG	False
+345	344	Celso Sabino 	Deputado Federal	UNIÃO	6.13	PA	False
+346	346	Edio Lopes 	Deputado Federal	PL	6.12	RR	False
+347	346	Nilda Gondim	Senador	MDB	6.12	PB	False
+348	346	Dulce Miranda 	Deputado Federal	MDB	6.12	TO	False
+349	346	Pedro Augusto Bezerra 	Deputado Federal	PDT	6.12	CE	False
+350	350	Pr. Marco Feliciano 	Deputado Federal	PL	6.11	SP	False
+351	350	Roberto Alves 	Deputado Federal	REPUBLICANOS	6.11	SP	False
+352	352	Paulo Abi-Ackel	Deputado Federal	PSDB	6.09	MG	False
+353	352	Mara Gabrilli	Senador	PSDB	6.09	SP	False
+354	354	Átila Lira 	Deputado Federal	PP	6.06	PI	False
+355	354	Beto Pereira 	Deputado Federal	PSDB	6.06	MS	False
+356	356	Severino Pessoa 	Deputado Federal	MDB	6.05	AL	False
+357	356	Misael Varella 	Deputado Federal	PSD	6.05	MG	False
+358	356	Flávia Arruda 	Deputado Federal	PL	6.05	DF	False
+359	359	Leda Sadala 	Deputado Federal	PP	6.04	AP	False
+360	360	Aelton Freitas	Deputado Federal	PP	6.03	MG	False
+361	361	Sidney Leite 	Deputado Federal	PSD	6.02	AM	False
+362	361	Lucas Barreto	Senador	PSD	6.02	AP	False
+363	363	Dimas Fabiano 	Deputado Federal	PP	6.0	MG	False
+364	364	Léo Motta 	Deputado Federal	REPUBLICANOS	5.99	MG	False
+365	365	Omar Aziz	Senador	PSD	5.98	AM	False
+366	365	Hildo Rocha 	Deputado Federal	MDB	5.98	MA	False
+367	367	André Ferreira 	Deputado Federal	PL	5.97	PE	False
+368	368	Márcio Marinho 	Deputado Federal	REPUBLICANOS	5.96	BA	False
+369	368	Rose Modesto 	Deputado Federal	UNIÃO	5.96	MS	False
+370	368	Vavá Martins 	Deputado Federal	REPUBLICANOS	5.96	PA	False
+371	371	Maria Rosas 	Deputado Federal	REPUBLICANOS	5.95	SP	False
+372	372	Jéssica Sales 	Deputado Federal	MDB	5.92	AC	False
+373	372	Euclydes Pettersen 	Deputado Federal	PSC	5.92	MG	False
+374	374	Kátia Abreu	Senador	PP	5.89	TO	False
+375	374	Shéridan 	Deputado Federal	PSDB	5.89	RR	False
+376	374	Leila Barros	Senador	PDT	5.89	DF	False
+377	377	Fábio Trad 	Deputado Federal	PSD	5.88	MS	False
+378	377	Aécio Neves 	Deputado Federal	PSDB	5.88	MG	False
+379	379	Walter Alves 	Deputado Federal	MDB	5.87	RN	False
+380	379	Stefano Aguiar 	Deputado Federal	PSD	5.87	MG	False
+381	379	Júnior Mano 	Deputado Federal	PL	5.87	CE	False
+382	382	Juarez Costa 	Deputado Federal	MDB	5.86	MT	False
+383	383	Guilherme Mussi 	Deputado Federal	PP	5.85	SP	False
+384	384	Diego Andrade 	Deputado Federal	PSD	5.83	MG	False
+385	384	Domingos Neto 	Deputado Federal	PSD	5.83	CE	False
+386	384	Luciano Bivar 	Deputado Federal	UNIÃO	5.83	PE	False
+387	387	Wellington Roberto 	Deputado Federal	PL	5.82	PB	False
+388	387	André de Paula 	Deputado Federal	PSD	5.82	PE	False
+389	389	Silas Câmara 	Deputado Federal	REPUBLICANOS	5.8	AM	False
+390	389	Ricardo Teobaldo 	Deputado Federal	PODEMOS	5.8	PE	False
+391	389	Charles Fernandes 	Deputado Federal	PSD	5.8	BA	False
+392	392	Eli Borges 	Deputado Federal	PL	5.78	TO	False
+393	393	Iracema Portella 	Deputado Federal	PP	5.77	PI	False
+394	394	José Nunes 	Deputado Federal	PSD	5.74	BA	False
+395	395	Bruna Furlan 	Deputado Federal	PSDB	5.72	SP	False
+396	395	Fernando Collor	Senador	PTB	5.72	AL	False
+397	397	Juscelino Filho 	Deputado Federal	UNIÃO	5.71	MA	False
+398	398	Newton Cardoso Jr 	Deputado Federal	MDB	5.7	MG	False
+399	399	Mário Negromonte Jr. 	Deputado Federal	PP	5.69	BA	False
+400	399	André Fufuca 	Deputado Federal	PP	5.69	MA	False
+401	399	Sérgio Petecão	Senador	PSD	5.69	AC	False
+402	399	Haroldo Cathedral 	Deputado Federal	PSD	5.69	RR	False
+403	403	Elcione Barbalho 	Deputado Federal	MDB	5.66	PA	False
+404	403	Gilberto Nascimento 	Deputado Federal	PSC	5.66	SP	False
+405	403	João Marcelo Souza 	Deputado Federal	MDB	5.66	MA	False
+406	406	Cristiano Vale 	Deputado Federal	PP	5.64	PA	False
+407	407	Flávio Nogueira 	Deputado Federal	PT	5.62	PI	False
+408	407	Emanuel Pinheiro Neto 	Deputado Federal	MDB	5.62	MT	False
+409	409	Fernando Monteiro 	Deputado Federal	PP	5.61	PE	False
+410	409	Aline Gurgel 	Deputado Federal	REPUBLICANOS	5.61	AP	False
+411	411	Baleia Rossi 	Deputado Federal	MDB	5.6	SP	False
+412	412	Edna Henrique 	Deputado Federal	REPUBLICANOS	5.58	PB	False
+413	413	Vinicius Farah 	Deputado Federal	UNIÃO	5.56	RJ	False
+414	414	Angelo Coronel	Senador	PSD	5.54	BA	False
+415	414	Fabio Reis 	Deputado Federal	PSD	5.54	SE	False
+416	414	Norma Ayub 	Deputado Federal	PP	5.54	ES	False
+417	417	Moses Rodrigues 	Deputado Federal	UNIÃO	5.53	CE	False
+418	418	Celina Leão 	Deputado Federal	PP	5.52	DF	False
+419	418	Aureo Ribeiro 	Deputado Federal	SOLIDARIEDADE	5.52	RJ	False
+420	420	Gutemberg Reis 	Deputado Federal	MDB	5.5	RJ	False
+421	421	Leandre 	Deputado Federal	PSD	5.49	PR	False
+422	421	Sóstenes Cavalcante 	Deputado Federal	PL	5.49	RJ	False
+423	423	Beto Rosado 	Deputado Federal	PP	5.43	RN	False
+424	424	Eduardo da Fonte 	Deputado Federal	PP	5.42	PE	False
+425	424	Ricardo Izar 	Deputado Federal	REPUBLICANOS	5.42	SP	False
+426	426	Otto Alencar Filho 	Deputado Federal	PSD	5.36	BA	False
+427	427	Magda Mofatto 	Deputado Federal	PL	5.35	GO	False
+428	427	Marcelo Aro 	Deputado Federal	PP	5.35	MG	False
+429	429	André Janones 	Deputado Federal	AVANTE	5.33	MG	False
+430	430	Capitão Fábio Abreu 	Deputado Federal	PSD	5.32	PI	False
+431	431	Otto Alencar	Senador	PSD	5.31	BA	False
+432	432	Jader Barbalho	Senador	MDB	5.3	PA	False
+433	433	Mauro Benevides Filho 	Deputado Federal	PDT	5.25	CE	False
+434	434	Silvia Cristina 	Deputado Federal	PL	5.18	RO	False
+435	435	José Priante 	Deputado Federal	MDB	5.13	PA	False
+436	436	Expedito Netto 	Deputado Federal	PSD	5.09	RO	False
+437	437	Rubens Pereira Júnior 	Deputado Federal	PT	5.05	MA	False
+438	438	Fábio Mitidieri 	Deputado Federal	PSD	5.01	SE	False
+439	438	João Carlos Bacelar 	Deputado Federal	PL	5.01	BA	False
+440	438	Rodrigo Agostinho 	Deputado Federal	PSB	5.01	SP	False
+441	441	Lucio Mosquini 	Deputado Federal	MDB	4.99	RO	False
+442	441	Célio Studart 	Deputado Federal	PSD	4.99	CE	False
+443	443	Eliziane Gama	Senador	CIDADANIA	4.96	MA	False
+444	444	Fabiano Contarato	Senador	PT	4.94	ES	False
+445	445	Alexandre Frota 	Deputado Federal	PROS	4.93	SP	False
+446	446	Clarissa Garotinho 	Deputado Federal	UNIÃO	4.9	RJ	False
+447	447	Randolfe Rodrigues	Senador	REDE	4.88	AP	False
+448	448	Tereza Nelma 	Deputado Federal	PSD	4.86	AL	False
+449	449	Josimar Maranhãozinho 	Deputado Federal	PL	4.85	MA	False
+450	450	Chico Rodrigues	Senador	UNIÃO	4.81	RR	False
+451	451	Weliton Prado 	Deputado Federal	PROS	4.77	MG	False
+452	452	Fernando Rodolfo 	Deputado Federal	PL	4.75	PE	False
+453	453	Cássio Andrade 	Deputado Federal	PSB	4.73	PA	False
+454	454	Mauro Nazif 	Deputado Federal	PSB	4.72	RO	False
+455	455	Rodrigo Maia 	Deputado Federal	PSDB	4.52	RJ	False
+456	455	Professora Dorinha Seabra Rezende	Deputado Federal	UNIÃO	4.52	TO	False
+457	455	Carlos Henrique Gaguim 	Deputado Federal	UNIÃO	4.52	TO	False
+458	458	Herculano Passos 	Deputado Federal	REPUBLICANOS	4.47	SP	False
+459	459	Wilson Santiago 	Deputado Federal	REPUBLICANOS	4.32	PB	False
+460	459	Fábio Henrique 	Deputado Federal	UNIÃO	4.32	SE	False
+461	461	Acir Gurgacz	Senador	PDT	4.22	RO	False
+462	462	Weverton	Senador	PDT	4.21	MA	False
+463	463	Zenaide Maia	Senador	PSD	4.18	RN	False
+464	464	Marcelo Nilo 	Deputado Federal	REPUBLICANOS	4.13	BA	False
+465	465	Subtenente Gonzaga 	Deputado Federal	PSD	4.12	MG	False
+466	466	Jesus Sérgio 	Deputado Federal	PDT	4.09	AC	False
+467	467	Professor Israel Batista 	Deputado Federal	PSB	4.06	DF	False
+468	467	Jean Paul Prates	Senador	PT	4.06	RN	False
+469	469	Paulo Paim	Senador	PT	4.05	RS	False
+470	470	Veneziano Vital do Rêgo	Senador	MDB	4.03	PB	False
+471	471	Pastor Sargento Isidório 	Deputado Federal	AVANTE	4.0	BA	False
+472	472	Milton Coelho	Deputado Federal	PSB	3.97	PE	False
+473	473	Flávia Morais 	Deputado Federal	PDT	3.96	GO	False
+474	474	Rafael Motta 	Deputado Federal	PSB	3.95	RN	False
+475	475	Humberto Costa	Senador	PT	3.94	PE	False
+476	476	Gustavo Fruet 	Deputado Federal	PDT	3.93	PR	False
+477	477	Luciano Ducci 	Deputado Federal	PSB	3.91	PR	False
+478	478	Júlio Delgado 	Deputado Federal	PV	3.9	MG	False
+479	478	Leo de Brito	Deputado Federal	PT	3.9	AC	False
+480	480	Heitor Schuch 	Deputado Federal	PSB	3.88	RS	False
+481	481	Mário Heringer 	Deputado Federal	PDT	3.84	MG	False
+482	482	Tiririca 	Deputado Federal	PL	3.82	SP	False
+483	482	Eduardo Bismarck 	Deputado Federal	PDT	3.82	CE	False
+484	484	Robério Monteiro 	Deputado Federal	PDT	3.81	CE	False
+485	485	Paulo Foletto 	Deputado Federal	PSB	3.75	ES	False
+486	486	Elias Vaz 	Deputado Federal	PSB	3.69	GO	False
+487	487	Jaques Wagner	Senador	PT	3.67	BA	False
+488	488	Joenia Wapichana 	Deputado Federal	REDE	3.66	RR	False
+489	489	Damião Feliciano 	Deputado Federal	UNIÃO	3.65	PB	False
+490	490	Paulo Rocha	Senador	PT	3.64	PA	False
+491	491	Pompeo de Mattos 	Deputado Federal	PDT	3.62	RS	False
+492	492	Vilson da Fetaemg 	Deputado Federal	PSB	3.61	MG	False
+493	493	Idilvan Alencar 	Deputado Federal	PDT	3.56	CE	False
+494	494	Chico D'Angelo 	Deputado Federal	PDT	3.53	RJ	False
+495	494	Danilo Cabral 	Deputado Federal	PSB	3.53	PE	False
+496	494	Tadeu Alencar 	Deputado Federal	PSB	3.53	PE	False
+497	497	Bacelar 	Deputado Federal	PV	3.45	BA	False
+498	498	André Figueiredo 	Deputado Federal	PDT	3.44	CE	False
+499	498	Denis Bezerra 	Deputado Federal	PSB	3.44	CE	False
+500	500	Túlio Gadêlha 	Deputado Federal	REDE	3.43	PE	False
+501	501	Wolney Queiroz 	Deputado Federal	PDT	3.41	PE	False
+502	502	Áurea Carolina 	Deputado Federal	PSOL	3.39	MG	False
+503	503	Fernanda Melchionna 	Deputado Federal	PSOL	3.35	RS	False
+504	504	Afonso Motta 	Deputado Federal	PDT	3.32	RS	False
+505	505	Talíria Petrone 	Deputado Federal	PSOL	3.31	RJ	False
+506	506	Marcelo Freixo 	Deputado Federal	PSB	3.3	RJ	False
+507	506	Gonzaga Patriota 	Deputado Federal	PSB	3.3	PE	False
+508	508	David Miranda 	Deputado Federal	PDT	3.29	RJ	False
+509	509	Félix Mendonça Júnior 	Deputado Federal	PDT	3.25	BA	False
+510	510	Merlong Solano 	Deputado Federal	PT	3.23	PI	False
+511	511	Paulo Guedes 	Deputado Federal	PT	3.16	MG	False
+512	512	Zé Neto 	Deputado Federal	PT	3.13	BA	False
+513	513	Bira do Pindaré 	Deputado Federal	PSB	3.1	MA	False
+514	514	Leônidas Cristino 	Deputado Federal	PDT	3.09	CE	False
+515	515	Paulo Ramos 	Deputado Federal	PDT	3.08	RJ	False
+516	515	Luizianne Lins 	Deputado Federal	PT	3.08	CE	False
+517	517	Gervásio Maia 	Deputado Federal	PSB	3.07	PB	False
+518	517	Rubens Otoni 	Deputado Federal	PT	3.07	GO	False
+519	519	Alessandro Molon 	Deputado Federal	PSB	3.06	RJ	False
+520	520	Glauber Braga 	Deputado Federal	PSOL	3.05	RJ	False
+521	520	Renildo Calheiros 	Deputado Federal	PCdoB	3.05	PE	False
+522	522	Arlindo Chinaglia 	Deputado Federal	PT	3.03	SP	False
+523	522	Renan Calheiros	Senador	MDB	3.03	AL	False
+524	524	Rogério Carvalho	Senador	PT	3.0	SE	False
+525	524	Aliel Machado 	Deputado Federal	PV	3.0	PR	False
+526	526	Ivan Valente 	Deputado Federal	PSOL	2.99	SP	False
+527	527	Camilo Capiberibe 	Deputado Federal	PSB	2.98	AP	False
+528	528	Luiza Erundina 	Deputado Federal	PSOL	2.97	SP	False
+529	529	Dagoberto Nogueira 	Deputado Federal	PSDB	2.95	MS	False
+530	530	Professora Marcivania 	Deputado Federal	PCdoB	2.93	AP	False
+531	530	Professora Rosa Neide 	Deputado Federal	PT	2.93	MT	False
+532	532	Beto Faro 	Deputado Federal	PT	2.92	PA	False
+533	533	Alencar Santana	Deputado Federal	PT	2.91	SP	False
+534	534	Nilto Tatto 	Deputado Federal	PT	2.89	SP	False
+535	534	Carlos Veras 	Deputado Federal	PT	2.89	PE	False
+536	536	Joseildo Ramos 	Deputado Federal	PT	2.88	BA	False
+537	536	Jandira Feghali 	Deputado Federal	PCdoB	2.88	RJ	False
+538	538	Airton Faleiro 	Deputado Federal	PT	2.87	PA	False
+539	538	Carlos Zarattini 	Deputado Federal	PT	2.87	SP	False
+540	540	Patrus Ananias 	Deputado Federal	PT	2.86	MG	False
+541	541	Josias Gomes 	Deputado Federal	PT	2.85	BA	False
+542	541	Zeca Dirceu 	Deputado Federal	PT	2.85	PR	False
+543	543	Rejane Dias 	Deputado Federal	PT	2.84	PI	False
+544	543	Sâmia Bomfim 	Deputado Federal	PSOL	2.84	SP	False
+545	545	Perpétua Almeida 	Deputado Federal	PCdoB	2.82	AC	False
+546	546	Vicentinho 	Deputado Federal	PT	2.79	SP	False
+547	546	Alice Portugal 	Deputado Federal	PCdoB	2.79	BA	False
+548	546	Bohn Gass 	Deputado Federal	PT	2.79	RS	False
+549	549	Alexandre Padilha 	Deputado Federal	PT	2.78	SP	False
+550	550	Paulão 	Deputado Federal	PT	2.77	AL	False
+551	551	Leonardo Monteiro 	Deputado Federal	PT	2.74	MG	False
+552	552	Benedita da Silva 	Deputado Federal	PT	2.73	RJ	False
+553	553	Zé Carlos 	Deputado Federal	PT	2.72	MA	False
+554	553	Odair Cunha 	Deputado Federal	PT	2.72	MG	False
+555	555	Marília Arraes 	Deputado Federal	SOLIDARIEDADE	2.71	PE	False
+556	556	José Guimarães 	Deputado Federal	PT	2.7	CE	False
+557	557	Célio Moura 	Deputado Federal	PT	2.69	TO	False
+558	558	Enio Verri 	Deputado Federal	PT	2.68	PR	False
+559	559	Daniel Almeida 	Deputado Federal	PCdoB	2.66	BA	False
+560	559	Waldenor Pereira 	Deputado Federal	PT	2.66	BA	False
+561	561	Afonso Florence 	Deputado Federal	PT	2.65	BA	False
+562	562	Maria do Rosário 	Deputado Federal	PT	2.62	RS	False
+563	563	Pedro Uczai 	Deputado Federal	PT	2.61	SC	False
+564	564	José Ricardo 	Deputado Federal	PT	2.6	AM	False
+565	564	Reginaldo Lopes 	Deputado Federal	PT	2.6	MG	False
+566	566	Frei Anastacio Ribeiro 	Deputado Federal	PT	2.59	PB	False
+567	566	Valmir Assunção 	Deputado Federal	PT	2.59	BA	False
+568	568	José Airton Félix Cirilo 	Deputado Federal	PT	2.58	CE	False
+569	569	Rogério Correia 	Deputado Federal	PT	2.56	MG	False
+570	569	João Daniel 	Deputado Federal	PT	2.56	SE	False
+571	569	Helder Salomão 	Deputado Federal	PT	2.56	ES	False
+572	572	Rui Falcão 	Deputado Federal	PT	2.55	SP	False
+573	573	Paulinho da Força	Deputado Federal	SOLIDARIEDADE	2.53	SP	False
+574	574	Padre João 	Deputado Federal	PT	2.52	MG	False
+575	575	Erika Kokay 	Deputado Federal	PT	2.5	DF	False
+576	576	Marcon 	Deputado Federal	PT	2.49	RS	False
+577	577	Natália Bonavides 	Deputado Federal	PT	2.47	RN	False
+578	578	Orlando Silva 	Deputado Federal	PCdoB	2.44	SP	False
+579	579	Lídice da Mata 	Deputado Federal	PSB	2.42	BA	False
+580	580	Gleisi Hoffmann 	Deputado Federal	PT	2.35	PR	False
+581	581	Paulo Teixeira 	Deputado Federal	PT	2.26	SP	False
+582	582	Henrique Fontana 	Deputado Federal	PT	2.13	RS	False
+583	583	Paulo Pimenta 	Deputado Federal	PT	2.05	RS	False
+584	584	Vander Loubet 	Deputado Federal	PT	2.02	MS	False
+585	585	Jorge Solla 	Deputado Federal	PT	1.9	BA	False
+586	586	Vivi Reis	Deputado Federal	PSOL	1.51	PA	False
+587	587	Márcio Jerry 	Deputado Federal	PCdoB	0.55	MA	False
+588	588	Márcio Macêdo	Deputado Federal	PT	0.41	SE	False
